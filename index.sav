@@ -1,0 +1,222 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,maximum-scale=1.0"/>
+<title>Sakaiger</title>
+<meta name="twitter:site" content="@sakaiger" />
+<meta name="twitter:card" content="summary" />
+<link rel="stylesheet" href="css/base.css" type="text/css" media="all" charset="utf-8">
+<link rel="apple-touch-icon-precomposed" href="images/touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/touch-icon@114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/touch-icon@72x72.png" />
+<link rel="shortcut icon" href="images/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="Sakaiger is the loveable mascot of the Sakai Project!" />
+<meta itemprop="description" content="Sakaiger is the loveable mascot of the Sakai Project!" />
+<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7;" />
+<meta name="author" content="Sakai Foundation, info @ sakaiproject.org" />
+<script src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/jsonFlikrApi.js"></script>
+<script>
+function toTop(){
+	$('html, body').animate({
+		scrollTop: $("#top").offset().top
+	}, 750);
+}
+</script>
+<script type="text/javascript">
+function rmLink(link) {
+	var container = document.getElementById(link);
+	container.removeAttribute("href");
+}
+
+function show_hide(tab,id,x) {		
+	var item = document.getElementById(id);
+	var tab = document.getElementById(tab);
+	var x;
+	switch(x) {
+		case "y":
+		var value = item.style.display = '';
+		item.style.display = value;
+		//item.className = "active";
+		//tab.className += " active";
+		tab.classList.add('active');
+		break;
+		case "n":
+		var value = item.style.display = 'none';
+		item.style.display = value;
+		//item.className = "";
+		tab.classList.remove('active');
+	}
+}
+</script>
+</head>
+<body>
+<a name="top" id="top"></a>
+<div id="header-wrapper">
+	<div id="header">
+		<div id="headshot-wrapper">
+			<div id="headshot"></div>
+		</div>
+		<div id="bubble"><span class="hide">I'm the mascot for the Sakai Project.</span></div>
+		<div id="nametag-wrapper">
+			<div id="nametag">
+					<h1>Hello 
+						<span id="intro">my name is</span>
+						<span id="name">
+							<span id="text" class="hide">Sakaiger</span>
+						</span>
+					</h1>
+			</div>
+		</div>
+		
+	</div>
+
+</div>
+
+<div id="content-wrapper">
+	<div id="content">
+		<div class="content-block-wrapper">
+			<div class="content-block">
+				<div id="legend" class="content-box-full">
+					<h2>The Legend of Sakaiger</h2>
+					<img src="images/Sakaiger.png" alt="Sakaiger" id="sakaiger-img" />
+					<p>Sakaiger is a happy dancing creature. It is the logo of the hip, cool, underground, karaoke singing, silly elements of the Sakai Community (that is pretty much everyone).</p>
+					<p>The Sakaiger is very much part of the lore of the Sakai Quality Assurance effort.</p>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div class="spacer two"></div>
+		<div class="content-block-wrapper">
+			<div class="content-block">
+				<div id="columns">
+					<div class="column left">
+						<div id="social-tabs">
+							<ul id="tabs">
+								<li id="flikr"><a href="#" id="flikr-link" onclick="javascript:show_hide('flikr-link','flikr-content','y'), show_hide('twitter-link','twitter-content','n'), rmLink('flikr-link')" class="active">Photos</a></li>
+								<li id="twitter"><a href="#" id="twitter-link" onclick="javascript:show_hide('twitter-link','twitter-content','y'), show_hide('flikr-link','flikr-content','n'), rmLink('twitter-link')">Tweets</a></li>
+							</ul>
+							<div class="clear"></div>
+						</div>				
+						<div class="social-content" id="flikr-content" style="display:;">
+							<h3>Tag: <em>sakaiger</em> <br /><a href="http://www.flickr.com/photos/tags/sakaiger" target="_blank" class="h3-inner-link">See all sakaiger photos</a></h3>
+							<div id="flikr-feed-content">
+								<script type="text/javascript" language="javascript" src="http://api.flickr.com/services/rest/?format=json&method=flickr.photos.search&tags=sakaiger&tag_mode=all&per_page=40&api_key=b10b7ca7124e2c9af4b68ba4df8191d6"></script>
+							</div>
+						</div>
+						<div class="social-content" id="twitter-content" style="display: none;">
+							<h2>@sakaiger</h2>
+							<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/Sakaiger"  data-widget-id="324381384271597569">Tweets by @Sakaiger</a>
+							<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+							<h2>Mentions of me</h2>
+							<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/search?q=sakaiger"  data-widget-id="324382849379737600">Tweets about "sakaiger"</a>
+							<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+						</div>
+						<div class="clear"></div>
+						<hr class="mobile" />
+					</div>
+					<div class="column right">
+						<h2>Fun Sakaiger Facts</h2>
+						<img src="images/sakaiger-mmm.jpg" alt="Sakaiger and Megan May, then Sakai QA Director" id="mmm-sakaiger">
+						<ul class="points">
+						    <li>The first Blue Sakaiger is larger than the rest and was given to Megan May &mdash; the then Sakai QA director.</li>
+						    <li>Sakaigers were first sighted in Amsterdam on June 13, 2007 at the Sakai Conference.</li>
+						    <li>Follow the worldwide travels of the Sakaiger via <a href="http://www.flickr.com">Flickr</a>. Please upload your Sakaiger photos and tag them with the "sakaiger" tag.</li>
+						    <li>Andrew Thornton of CARET, Cambridge designed the original Sakaiger image.</li>
+						    <li>Each stuffed Sakaiger is hand sewn in <a href="http://goo.gl/maps/MAE9J">Perry, MI</a>.<br />The stuffed Sakaiger is based on a Simplicity 3779 pattern for a stuffed rabbit [<a href="http://www.simplicity.com">www.simplicity.com</a>] - the pattern was adapted to make the Sakaiger more tiger-like.</li>
+						    <li>It is not possible to purchase a Sakaiger at any price!</li>
+						</ul>
+						<div class="spacer"></div>
+						<h2 class="mobile">Notes</h2>
+						<div class="note">
+							<div class="note-inner">
+								<p><span class="from">From Harriet <span class="mobile">&mdash;</span></span>The original concept of a Sakaiger was mainly a silly pun thought up by those crazy folks at CARET, Cambridge. We have intermittently talked about other Sakai related animals (Sakainocerous, for example), but none of them really caught on as the Sakaiger did. We wanted to have a real implementation of a Sakaiger, and Andy Thornton drew one, which ended up looking rather like the tiger from the Weebls cartoon 'Kenya'. Andy also bought a Weebl tiger and lion (and t-shirt) for the office. We customised our Weebl tiger a bit with a Sakai badge in its ear... The real life Sakaigers as realised by Chuck don't look much like the Weebl one (except they're clearly both meant to be tigers) - the Sakaiger is much taller and thinner and is smiley.</p>
+							</div>
+						</div>
+					</div>
+					<div class="clear"></div>
+				</div><!-- CLOSE COLUMNS -->
+
+			</div><!-- CLOSE CONTENT-BLOCK -->
+		</div><!-- CLOSE CONTENT-BLOCK-WRAPPER -->
+		<div class="spacer"></div>
+		<div id="friends" class="content-box-full">
+		<h2>Friends &amp; Relatives</h2>
+		<p>Through the years, Sakaiger has discovered a few friends &mdash; even family. Meet them...</p>
+		<div class="spacer"></div>
+		<ul id="friends-family">	
+			<li>
+				<div class="headshot"><img src="images/friend_sakaigress.jpg" alt="Sakaigress"></div>
+				<div class="background-wrapper">
+					<h3>Sakaigress</h3>	
+					<div class="background">
+						<div class="background-text">
+							<p>Sakaigress (a.k.a. the pink Sakaiger) appeared March 28, 2008 and are given to people with special contributions to Sakai. Often the Sakai Executive Director awards a Sakaigress at their discretion.</p>
+						</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</li>
+			<li>
+				<div class="headshot"><img src="images/friend_sakaiger-ninja.jpg" alt="Ninja Sakaiger"></div>
+				<div class="background-wrapper">
+					<h3>Ninja Sakaiger</h3>	
+					<div class="background">
+						<div class="background-text">
+							<p>The Ninja Sakaiger (Black Sakaiger) are given to Sakai Fellows and are individually numbered with a serial number and the Fellow's name on the Sakaiger's shirt. To become a Sakai Fellow one must be nominated and chosen by the Sakai community. Sakaigers are traditionally given to the Fellows at the summer Sakai Foundation meeting each year. </p>
+						</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</li>
+			<li>
+				<div class="headshot"><img src="images/friend_sakaiger-beaded.jpg" alt="Beaded Sakaiger"></div>
+				<div class="background-wrapper">
+					<h3>Beaded Sakaiger</h3>	
+					<div class="background">
+						<div class="background-text">
+							<p>The Beaded Sakaiger is very rare and handmade of wire and beads and has its origins in South Africa. They are sometimes presented to Sakai Fellows.</p>
+						</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</li>
+			<li class="last">
+				<div class="headshot"><img src="images/friend_weebl-tiger.jpg" alt="Weebls Tiger"></div>
+				<div class="background-wrapper">
+					<h3>Kenya Tiger</h3>	
+					<div class="background">
+						<div class="background-text">
+							<p>A relative of the Sakaiger is the Kenya Tiger from <a href="http://www.weebls-stuff.com/toons/kenya/">Weebls</a>. Please visit the site, view the video and buy some of the totally sweet Weebl Stuff.</p>
+						</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</li>		
+		</ul>		
+		</div>
+		<div class="spacer"></div>
+
+	</div><!-- CLOSE CONTENT -->
+</div><!-- CLOSE CONTENT-WRAPPER -->
+
+<div id="footer-wrapper">
+	<div id="footer-inner-wrapper">
+		<div id="footer">
+			<div id="sakaiger_sign">
+				<a href="#top" id="top-button" onclick="javascript:toTop(), rmLink('top-button')"><span>Back to top</span></a>
+			</div>
+			<div id="legal">
+			<h3>Legal Stuff</h3>
+				<ul>
+					<li id="copyright"><a href="http://creativecommons.org/licenses/by/2.5/"><img src="images/cc_license.png" alt="Creative Commons license" id="cc-license" /></a> The Sakaiger stuffed animal and this web site are licensed under a <a href="http://creativecommons.org/licenses/by/2.5/">Creative Commons Attribution 2.5 License</a> - Charles Severance.</li>
+					<li>You are welcome and encouraged to make derivative works of the stuffed Sakaiger and evolve the species through artistic improvement. Attribution is sufficient if you reference www.sakaiger.com if you display your artwork on your own web site. There is no need to put any attribtion on the derivative works themselves unless you want to &mdash; this is after all &mdash; art.</li>
+					<li class="last">Sorry about the legal stuff &mdash; Sakai is an open source project and the Sakaiger needs to be an open source mascot. :)</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>
