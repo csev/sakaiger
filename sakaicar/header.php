@@ -12,7 +12,7 @@
               <ul class="site-menu js-clone-nav mx-auto d-none d-lg-block">
                 <li><a href=".">Home</a></li>
                 <li><a href="..">Sakaiger</a></li>
-                <li><a href="https://24hoursoflemons.com/schedule/" target="_blank">Schedule</a></li>
+                <li><a href="schedule.php" target="_blank">Schedule</a></li>
 <!--
                 <li class="has-children">
                   <a href="#">Albums</a>
@@ -24,9 +24,8 @@
 -->
                 <li><a href="https://www.youtube.com/playlist?list=PLlRFEj9H3Oj6VbnK4nrBt5p803kXnf6VT" target="_blank">YouTube</a>
                 <li><a href="https://photos.app.goo.gl/oQecoFSDAjY4PbZx7" target="_blank">All Photos</a>
-                <li><a href="about.php">About</a></li>
                 <li class="has-children">
-                  <a href="#">Stickers/Friends</a>
+                  <a href="#">Friends</a>
                   <ul class="dropdown">
                     <li><a href="https://24hoursoflemons.com/" target="_blank">24 Hours of Lemons</a></li>
                     <li><a href="https://www.tsugi.org/" target="_blank">Tsugi</a></li>
@@ -37,6 +36,7 @@
                     <li><a href="https://www.si.umich.edu/" target="_blank">UMSI</a></li>
                   </ul>
                 </li>
+                <li><a href="about.php">About</a></li>
               </ul>
             </nav>
           </div>

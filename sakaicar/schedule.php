@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>About the Sakai Racing Team</title>
+    <title>The Sakai Racing Team Schedule</title>
 <?php require_once('head.php'); ?>
   </head>
   <body>
@@ -26,34 +26,66 @@
         <div class="col-md-7">
           <div class="row mb-5 site-section">
             <div class="col-12 ">
-              <h2 class="site-section-heading text-center">About the SakaiCar</h2>
+              <h2 class="site-section-heading text-center">Schedule</h2>
               <p>
-              <img style="margin: 5px; float: right; width: 50%;" src="images/race_2.jpg" alt="Images" class="img-fluid">
-The purpose of the Sakai Racing Team is to promote
-<a href="https://www.opensource.org/" target="_blank">open source</a>
-in higher education including
-<a href="https://www.sakailms.org" target="_blank">Sakai</a>, 
-<a href="https://www.tsugi.org/" target="_blank">Tsugi</a>,
-and the other projects in the
-<a href="https://www.apereo.org">Apereo Foundation</a>.
+The Sakai Racing Team races in a racing series called 
+<a href="https://24hoursoflemons.com/" target="_blank">24 Hours of Lemons</a>.
+            </p>
+<p>Upcoming races</p>
+<p>
+<ul>
+<li>
+<a href="https://24hoursoflemons.com/race/?id=230" target="_blank">
+Doing Time in Joliet
+</a>
+Autobahn Country Club, Joliet IL | 
+April 6-7, 2019 
+</li>
+<li>
+<a href="https://24hoursoflemons.com/race/?id=235" target="_blank">
+The Cure For Gingervitis
+</a>
+Gingerman Raceway, South Haven MI | 
+June 29-30, 2019
+</a>
+</li>
+<li>
+<a href="https://24hoursoflemons.com/race/?id=243" target="_blank">
+Where the Elite Meet to Cheat
+</a>
+Gingerman Raceway, South Haven MI | 
+October 12-13, 2019
+</li>
+</ul>
+</p>
+<p>Previous races</p>
+<ul>
+<li>
+<a href="https://24hoursoflemons.com/race/?id=214" target="_blank">
+Where the Elite Meet to Cheat
+</a>
+Gingerman Raceway, South Haven MI | 
+October 12-13, 2018
+</li>
+<li>
+<a href="https://24hoursoflemons.com/race/?id=209" target="_blank">
+The Cure For Gingervitis
+</a>
+Gingerman Raceway, South Haven MI | 
+June 30 - July 1, 2018
+</a>
+</li>
+<li>
+<a href="https://24hoursoflemons.com/race/?id=230" target="_blank">
+The Yokohama Joliet Prison Break
+</a>
+Autobahn Country Club, Joliet IL | 
+April 14-15, 2018
+</li>
+</ul>
 </p>
 <p>
-The team races in a racing series called 
-<a href="https://24hoursoflemons.com/" target="_blank">24 Hours of Lemons</a>.
-The goal of this series is to provide low cost, safe and fun racing events
-around the world.  Like open source, the goal of a team racing in the Lemons series
-is not to win at all costs, but instead have a lot of fun and respect the other racers.
-The culture of The 24 hours of Lemons is very much like the culture of Open Source.
-            </p>
-<p>
-The team races several times per year in the Midwest a South Haven, MI and
-Joliet, IL.  You can check the 
-<a href="https://24hoursoflemons.com/schedule/" target="_blank">Lemons Schedule</a>
-to see when and where the upcoming races will be held.The races will be announces on 
-the Sakai and Tsugi developer and user lists.
-It is a lot of fun to come
-to a race, wander around the pits and watch the action.  It is like a weekend camping trip
-with race cars.  Let us know if you want to drop by.
+You are welcome to come and visit the racing team at one of these events.
 </p>
             </div>
           </div>
