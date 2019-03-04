@@ -28,7 +28,7 @@
             <div class="col-12 ">
               <h2 class="site-section-heading text-center">Schedule</h2>
               <p>
-The Sakai Racing Team races in a racing series called 
+The Sakai Racing Team races in an endurance racing series for $500 cars called the
 <a href="https://24hoursoflemons.com/" target="_blank">24 Hours of Lemons</a>.
             </p>
 <p>Upcoming races</p>
