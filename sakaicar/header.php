@@ -24,18 +24,7 @@
 -->
                 <li><a href="https://www.youtube.com/playlist?list=PLlRFEj9H3Oj6VbnK4nrBt5p803kXnf6VT" target="_blank">YouTube</a>
                 <li><a href="https://photos.app.goo.gl/oQecoFSDAjY4PbZx7" target="_blank">All Photos</a>
-                <li class="has-children">
-                  <a href="#">Friends</a>
-                  <ul class="dropdown">
-                    <li><a href="https://24hoursoflemons.com/" target="_blank">24 Hours of Lemons</a></li>
-                    <li><a href="https://www.tsugi.org/" target="_blank">Tsugi</a></li>
-                    <li><a href="https://www.sakailms.org">The Sakai LMS</a></li>
-                    <li><a href="https://www.apereo.org">Apereo</a></li>
-                    <li><a href="https://www.opensource.org/" target="_blank">Open Source</a></li>
-                    <li><a href="https://www.coursera.com/" target="_blank">Coursera</a></li>
-                    <li><a href="https://www.si.umich.edu/" target="_blank">UMSI</a></li>
-                  </ul>
-                </li>
+                <li><a href="friends.php">Sponsors</a></li>
                 <li><a href="about.php">About</a></li>
               </ul>
             </nav>
