@@ -30,8 +30,8 @@
               <p>
               <img style="margin: 5px; float: right; width: 50%;" src="images/race_6.jpg" alt="Images" class="img-fluid">
 A number of organizations have stickers on the outside and inside of the 
-SakaiCar because they are our good friends.  At least one of the orgnziations
-is also a sponsor of the SakaiCar and racing team.
+SakaiCar because they are our good friends and support the team in various
+ways.
 <ul>
                     <li><a href="https://24hoursoflemons.com/" target="_blank">24 Hours of Lemons</a></li>
                     <li><a href="https://www.sakailms.org" target="_blank">Sakai Learning Management System</a></li>
