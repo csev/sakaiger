@@ -2,6 +2,7 @@
 <html lang="en">
   <head>
     <title>SakaiCar - The racing team of the Sakai Project</title>
+    <!-- photon - https://colorlib.com/wp/template/photon/ -->
     
 <?php require_once('head.php'); ?>
 
@@ -40,7 +41,7 @@
                   <h2 class="mb-3">Building</h2>
                   <a href="build.php" class="btn btn-outline-white py-2 px-4">More Photos</a>
                 </div>
-                <img src="images/build_1.jpg" alt="Image">
+                <img src="images/build_001.jpg" alt="Image">
               </div>
             </div>
         </div>
