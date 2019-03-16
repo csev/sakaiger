@@ -44,10 +44,8 @@
                 <img src="images/build_001.jpg" alt="Image">
               </div>
             </div>
-            <div class="swiper-slide">
-              <div class="twitter-wrap">
+            <div class="swiper-slide twitter-gone">
 <a class="twitter-timeline" data-width="600" data-height="1000" href="https://twitter.com/SakaiCar?ref_src=twsrc%5Etfw">Tweets by SakaiCar</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-              </div>
             </div>
         </div>
 
