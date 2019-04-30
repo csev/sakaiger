@@ -35,13 +35,6 @@ The Sakai Racing Team races in an endurance racing series for $500 cars called t
 <p>
 <ul>
 <li>
-<a href="https://24hoursoflemons.com/race/?id=230" target="_blank">
-Doing Time in Joliet
-</a>
-Autobahn Country Club, Joliet IL | 
-April 6-7, 2019 
-</li>
-<li>
 <a href="https://24hoursoflemons.com/race/?id=235" target="_blank">
 The Cure For Gingervitis
 </a>
@@ -60,6 +53,13 @@ October 12-13, 2019
 </p>
 <p>Previous races</p>
 <ul>
+<li>
+<a href="https://24hoursoflemons.com/race/?id=230" target="_blank">
+Doing Time in Joliet
+</a>
+Autobahn Country Club, Joliet IL | 
+April 6-7, 2019 
+</li>
 <li>
 <a href="https://24hoursoflemons.com/race/?id=214" target="_blank">
 Where the Elite Meet to Cheat

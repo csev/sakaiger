@@ -29,7 +29,7 @@
               <h2 class="site-section-heading text-center">About the SakaiCar</h2>
               <p>
               <img style="margin: 5px; float: right; width: 50%;" src="images/race_2.jpg" alt="Images" class="img-fluid">
-The purpose of the Sakai Racing Team is to promote
+The purpose of the Sakai Racing Team is to have fun and promote
 <a href="https://www.opensource.org/" target="_blank">open source</a>
 in higher education including
 <a href="https://www.sakailms.org" target="_blank">Sakai</a>, 
@@ -49,7 +49,7 @@ The culture of The 24 hours of Lemons is very much like the culture of Open Sour
 The team races several times per year in the Midwest a South Haven, MI and
 Joliet, IL.  You can check the 
 <a href="https://24hoursoflemons.com/schedule/" target="_blank">Lemons Schedule</a>
-to see when and where the upcoming races will be held.The races will be announces on 
+to see when and where the upcoming races will be held.  The races will be announced on 
 the Sakai and Tsugi developer and user lists.
 It is a lot of fun to come
 to a race, wander around the pits and watch the action.  It is like a weekend camping trip

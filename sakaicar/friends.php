@@ -30,19 +30,20 @@
               <p>
               <img style="margin: 5px; float: right; width: 50%;" src="images/race_6.jpg" alt="Images" class="img-fluid">
 A number of organizations have stickers on the outside and inside of the 
-SakaiCar because they are our good friends and support the team in various
-ways.
+SakaiCar because they are our good friends.  
 <ul>
                     <li><a href="https://24hoursoflemons.com/" target="_blank">24 Hours of Lemons</a></li>
                     <li><a href="https://www.sakailms.org" target="_blank">Sakai Learning Management System</a></li>
                     <li><a href="https://www.tsugicloud.org/" target="_blank">TsugiCloud Learning App Store</a></li>
-                    <li><a href="https://www.si.umich.edu/" target="_blank">University of Michigan School of Information</a></li>
+                    <li><a href="https://www.si.umich.edu/" target="_blank">University of Michigan School of Information</a> (Dr. Chuck's day job)</li>
                     <li><a href="https://www.apereo.org" target="_blank">Apereo Foundation</a> - 
                         Open Source for Higher Education</li>
                     <li><a href="https://www.opensource.org/" target="_blank">Open Source Initiative</a></li>
                     <li><a href="https://www.coursera.org/" target="_blank">Coursera</a> learning platform</li>
-                    <li><a href="https://www.learnxp.com/" target="_blank">Learning Experiences</a></li>
                   </ul>
+The racing team gets a little bit of sponsorship from 
+Dr. Chuck's <a href="https://www.learnxp.com/" target="_blank">Learning Experiences</a>
+company.
                 </li>
 </p>
             </div>
