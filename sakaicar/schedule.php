@@ -35,6 +35,24 @@ The Sakai Racing Team races in an endurance racing series for $500 cars called t
 <p>
 <ul>
 <li>
+<a href="https://24hoursoflemons.com/race/?id=238" target="_blank">
+Heartland Parked
+</a>
+August 24, 2019-Aug 25, 2019 | Heartland Motorsports Park, Topeka KS
+</a>
+</li>
+<li>
+<a href="https://24hoursoflemons.com/race/?id=243" target="_blank">
+Where the Elite Meet to Cheat
+</a>
+October 12-13, 2019 |
+Gingerman Raceway, South Haven MI 
+</li>
+</ul>
+</p>
+<p>Previous races</p>
+<ul>
+<li>
 <a href="https://24hoursoflemons.com/race/?id=235" target="_blank">
 The Cure For Gingervitis
 </a>
@@ -42,17 +60,6 @@ Gingerman Raceway, South Haven MI |
 June 29-30, 2019
 </a>
 </li>
-<li>
-<a href="https://24hoursoflemons.com/race/?id=243" target="_blank">
-Where the Elite Meet to Cheat
-</a>
-Gingerman Raceway, South Haven MI | 
-October 12-13, 2019
-</li>
-</ul>
-</p>
-<p>Previous races</p>
-<ul>
 <li>
 <a href="https://24hoursoflemons.com/race/?id=230" target="_blank">
 Doing Time in Joliet
