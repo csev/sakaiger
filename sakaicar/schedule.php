@@ -35,13 +35,6 @@ The Sakai Racing Team races in an endurance racing series for $500 cars called t
 <p>
 <ul>
 <li>
-<a href="https://24hoursoflemons.com/race/?id=238" target="_blank">
-Heartland Parked
-</a>
-August 24, 2019-Aug 25, 2019 | Heartland Motorsports Park, Topeka KS
-</a>
-</li>
-<li>
 <a href="https://24hoursoflemons.com/race/?id=243" target="_blank">
 Where the Elite Meet to Cheat
 </a>
@@ -52,6 +45,19 @@ Gingerman Raceway, South Haven MI
 </p>
 <p>Previous races</p>
 <ul>
+<li>
+<a href="https://24hoursoflemons.com/race/?id=238" target="_blank">
+Heartland Parked
+</a>
+August 24, 2019-Aug 25, 2019 | Heartland Motorsports Park, Topeka KS - 
+We were featured in the 
+<a href="https://www.youtube.com/watch?v=pPXK6w6zjp4" target="_new">
+Lemons Wrap up video</a> because we got the Bart Simson black flag penalty.
+We also brought an Oculus Rift with some 
+<a href="https://www.youtube.com/watch?v=GeNklRn1NEc" targt="_blank">
+360 racing video</a> that features Greg spinning out.
+</a>
+</li>
 <li>
 <a href="https://24hoursoflemons.com/race/?id=235" target="_blank">
 The Cure For Gingervitis
