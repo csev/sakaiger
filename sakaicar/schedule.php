@@ -35,16 +35,37 @@ The Sakai Racing Team races in an endurance racing series for $500 cars called t
 <p>
 <ul>
 <li>
-<a href="https://24hoursoflemons.com/race/?id=243" target="_blank">
-Where the Elite Meet to Cheat
+<a href="https://24hoursoflemons.com/race/?id=261" target="_blank">
+Doing Time in Joliet
 </a>
-October 12-13, 2019 |
+April 05-05, 2020 |
+Autobahn Country Club, Joliet, IL
+</li>
+<li>
+<a href="https://24hoursoflemons.com/race/?id=267" target="_blank">
+The Rust Belt GP
+</a>
+June 28-29, 2020 |
+Gingerman Raceway, South Haven MI 
+</li>
+<li>
+<a href="https://24hoursoflemons.com/race/?id=276" target="_blank">
+Tony Swan Never Say Die Memorial
+</a>
+October 10-11, 2020 |
 Gingerman Raceway, South Haven MI 
 </li>
 </ul>
 </p>
 <p>Previous races</p>
 <ul>
+<li>
+<a href="https://24hoursoflemons.com/race/?id=243" target="_blank">
+Tony Swan Never Say Die Memorial
+</a>
+October 12-13, 2019 |
+Gingerman Raceway, South Haven MI 
+</li>
 <li>
 <a href="https://24hoursoflemons.com/race/?id=238" target="_blank">
 Heartland Parked
