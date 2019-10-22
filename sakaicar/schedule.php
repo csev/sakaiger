@@ -38,7 +38,7 @@ The Sakai Racing Team races in an endurance racing series for $500 cars called t
 <a href="https://24hoursoflemons.com/race/?id=261" target="_blank">
 Doing Time in Joliet
 </a>
-April 05-05, 2020 |
+April 04-05, 2020 |
 Autobahn Country Club, Joliet, IL
 </li>
 <li>
