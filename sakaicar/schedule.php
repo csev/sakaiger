@@ -55,6 +55,10 @@ The Rust Belt GP 2021
 June 26-27, 2022 |
 Gingerman Raceway, South Haven MI 
 </li>
+</ul>
+</p>
+<p>Previous races</p>
+<ul>
 <li>
 <a href="https://24hoursoflemons.com/race/?id=290" target="_blank">
 The Pitt Maneuver 2021
@@ -62,10 +66,6 @@ The Pitt Maneuver 2021
 April 17-18, 2020 |
 Pittsburgh Int'l Race Complex, Wampum PA
 </li>
-</ul>
-</p>
-<p>Previous races</p>
-<ul>
 <li>
 <a href="https://24hoursoflemons.com/race/?id=276" target="_blank">
 Tony Swan Never Say Die Memorial
