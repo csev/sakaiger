@@ -35,13 +35,6 @@ The Sakai Racing Team races in an endurance racing series for $500 cars called t
 <p>
 <ul>
 <li>
-<a href="https://24hoursoflemons.com/race/?id=302" target="_blank">
-The Tony Swan Never-Say-Die Memorial 2021
-</a>
-October 9-10, 2021 |
-Gingerman Raceway, South Haven MI 
-</li>
-<li>
 <a href="https://24hoursoflemons.com/race/?id=298" target="_blank">
 Doing Time in Joliet 2021
 </a>
@@ -49,16 +42,23 @@ August 14-15, 2021 |
 Autobahn Country Club, Joliet, IL
 </li>
 <li>
-<a href="https://24hoursoflemons.com/race/?id=295" target="_blank">
-The Rust Belt GP 2021
+<a href="https://24hoursoflemons.com/race/?id=302" target="_blank">
+The Tony Swan Never-Say-Die Memorial 2021
 </a>
-June 26-27, 2022 |
+October 9-10, 2021 |
 Gingerman Raceway, South Haven MI 
 </li>
 </ul>
 </p>
 <p>Previous races</p>
 <ul>
+<li>
+<a href="https://24hoursoflemons.com/race/?id=295" target="_blank">
+The Rust Belt GP 2021
+</a>
+June 26-27, 2022 |
+Gingerman Raceway, South Haven MI 
+</li>
 <li>
 <a href="https://24hoursoflemons.com/race/?id=290" target="_blank">
 The Pitt Maneuver 2021
