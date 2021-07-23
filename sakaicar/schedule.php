@@ -35,13 +35,6 @@ The Sakai Racing Team races in an endurance racing series for $500 cars called t
 <p>
 <ul>
 <li>
-<a href="https://24hoursoflemons.com/race/?id=298" target="_blank">
-Doing Time in Joliet 2021
-</a>
-August 14-15, 2021 |
-Autobahn Country Club, Joliet, IL
-</li>
-<li>
 <a href="https://24hoursoflemons.com/race/?id=302" target="_blank">
 The Tony Swan Never-Say-Die Memorial 2021
 </a>
