@@ -75,7 +75,7 @@ Gingerman Raceway, South Haven MI
 <a href="https://24hoursoflemons.com/results/?id=290" target="_blank">
 The Pitt Maneuver 2021
 </a>
-April 17-18, 2020 |
+April 17-18, 2021 |
 Pittsburgh Int'l Race Complex, Wampum PA
 </li>
 <li>
@@ -91,13 +91,6 @@ The Rust Belt GP
 </a>
 June 28-29, 2020 |
 Gingerman Raceway, South Haven MI 
-</li>
-<li>
-<a href="https://24hoursoflemons.com/results/?id=261" target="_blank">
-Doing Time in Joliet
-</a>
-April 04-05, 2020 |
-Autobahn Country Club, Joliet, IL
 </li>
 <li>
 <a href="https://24hoursoflemons.com/results/?id=243" target="_blank">
